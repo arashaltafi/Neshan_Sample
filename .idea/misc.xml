@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_add_label.xml" value="0.1" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_add_marker.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_api_ok_http.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_api_retrofit.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_cache.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_camera_bearing.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_change_style.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_database_layer.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_draw_circle.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_draw_polygon.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_draw_polyline.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_main.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_marker_clustering.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_online_layer.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_poi_layer.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_remove_marker.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_routing.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_search.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_tilt_camera.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_traffic_layer.xml" value="0.1" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_user_location.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/activity_volley.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/item_search.xml" value="0.35625" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/remove_marker_bottom_sheet.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Arash/Desktop/1/NeshanSample/app/src/main/res/layout/reverse_bottom_sheet.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

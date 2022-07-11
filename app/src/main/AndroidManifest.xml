@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.arash.altafi.neshan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NeshanSample"
+        tools:targetApi="31">
+        <activity
+            android:name="com.arash.altafi.neshan.activity.DrawCircleActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.MarkerClusteringActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.RemoveMarkerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.RoutingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.AddLabelActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.CacheActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.ApiOkHttpActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.ApiVolleyActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.ApiRetrofitActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.DatabaseLayerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.POILayerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.OnlineLayerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.TrafficLayerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.UserLocationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.ChangeStyleActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.DrawPolygonActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.CameraBearingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.TiltCameraActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.DrawPolylineActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.AddMarkerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.arash.altafi.neshan.activity.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
